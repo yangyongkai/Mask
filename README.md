@@ -1,7 +1,7 @@
 # Mask
 Test face for mask
 
-处理数据集以及构建模型用的是Jupyter Notebook,数据集下载链接：
+处理数据集以及构建模型用的是Jupyter Notebook,数据集下载链接：https://pan.baidu.com/s/18rq-NiU4nXH3xoFNpHtANg 提取码：0pz1
 
 项目流程：
 1、使用tensorflow框架对人图片数据集预处理，剪裁出人脸。搭建卷积神经网络模型，预测人脸是否有戴口罩
